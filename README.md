@@ -13,3 +13,5 @@
 *MENTOR*: NEELA SANTOSH
 
 ##INTERACTIVE-QUIZ APPLICATION TOOLS I HAVE USED HTML CSS AND JAVASCRIPT
+
+#OUTPUT: ![Image](https://github.com/user-attachments/assets/a3118e09-8b05-4a2a-a5dc-cfbf43e81b0a)
